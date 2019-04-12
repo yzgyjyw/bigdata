@@ -1,0 +1,6 @@
+target/
+hbase/target/
+redis/target/
+.idea
+bigdata.iml
+output.txt
