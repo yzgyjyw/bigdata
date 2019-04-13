@@ -1,8 +1,8 @@
 target/
 hbase/target/
 redis/target/
-.idea
-bigdata.iml
+*.idea
+*.iml
 output.txt
 # Compiled class file
 *.class
